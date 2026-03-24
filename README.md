@@ -5,7 +5,7 @@ I'm a Data Analyst passionate about turning raw data into actionable insights. I
 🎓 Recently completed my Postgraduate Certificate in Business Analytics from Lambton College  
 📍 Based in Mississauga, ON  
 💻 Tools & Tech I use:
-- **Languages**: Python, SQL, R
+- **Languages**: Python, SQL
 - **Tools**: Power BI, Excel, Tableau, Git, Jupyter
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - **Cloud**: AWS (EC2, S3, Lambda, QuickSight), Airflow
