@@ -36,41 +36,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🍁 [Canadian Job Market Analytics](https://github.com/NirajanKhadka/canadian-job-market-analytics)
-> Python · PostgreSQL · Streamlit · Plotly · Supabase
-
-End-to-end analytics pipeline on **20,462 Canadian data job postings** from 4 sources.
-Includes full EDA, normalized PostgreSQL schema, and a deployed 5-page interactive dashboard.
-
-🔗 **[Live Demo](https://canadian-job-market-analytics-h3srgdsx2fr7dhapp56wpax.streamlit.app)**
-
----
-
-### 📉 [Customer Churn Analytics](https://github.com/NirajanKhadka/Customer-Churn-Analytics)
-> Python · Scikit-learn · Power BI · Pandas
-
-Analyzed 10,127 customer records using Gradient Boosting (96.5% accuracy, 98.0% F1-score).
-Exported 2,026 churn predictions to Power BI for interactive customer-level reporting.
-
----
-
-### 👥 [HR Attrition Analytics Dashboard](https://github.com/NirajanKhadka/Employee-Attrition-Analytics)
-> Power BI · DAX · Excel
-
-Interactive HR dashboard analyzing workforce attrition across 1,470 employees.
-Identified Sales Representatives as highest-risk role (39.76% attrition rate).
-
----
-
-### 📈 [Automated Stock Market Insights Dashboard](https://github.com/NirajanKhadka/Automated-Stock-Market-Insights-Dashboard)
-> Python · AWS Lambda · PostgreSQL · Power BI
-
-Automated pipeline tracking 5 FAANG stocks with real-time ingestion,
-PostgreSQL storage, and live Power BI reporting.
-
----
 
 ## 🏅 Certifications
 
